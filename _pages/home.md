@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
@@ -9,8 +10,8 @@ header:
   #   - label: "Book Now"
   #     url: "/booking"
 excerpt: 'Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop. `type="center"`'
-intro: 
-  - excerpt: ''
+# intro: 
+#   - excerpt: ''
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -54,7 +55,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
 
 {% include feature_row %}
 
