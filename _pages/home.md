@@ -1,7 +1,7 @@
 ---
-title: ""
 layout: splash
 permalink: /
+hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
