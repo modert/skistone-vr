@@ -15,7 +15,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 0em;
+    padding: 1em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -42,13 +42,13 @@
     @include clearfix();
     position: -webkit-sticky;
     position: sticky;
-    top: 0em;
+    top: 1em;
     float: right;
   }
 }
 
 .site-logo img {
-  max-height: 2rem;
+  max-height: 4rem;
 }
 
 .site-title {
