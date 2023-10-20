@@ -132,9 +132,12 @@ author:
 # Site Footer
 footer:
   links:    
+    - label: "Call Us"
+      icon: "fas fa-fw fa-mobile"
+      url: "tel:303-345-3213"
     - label: "Email Us"
       icon: "fas fa-fw fa-envelope-square"
-      url: "https://twitter.com/skistonei"
+      url: "mailto:skistone1+info@skistonevacationrentals.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/skistonei"
