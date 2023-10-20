@@ -8,6 +8,7 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/header.jpg
   show_overlay_exerpt: true
+  overlay_centered: true
   actions:
     - label: "Book Direct"
       url: "/booking"
