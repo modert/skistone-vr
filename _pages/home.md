@@ -1,16 +1,15 @@
 ---
-title: "Property"
+title: ""
 layout: splash
-permalink: /property/
+permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/header.jpg
-  type: "center"
-  actions:
-    - label: "Book Now"
-      url: "/booking"
-  excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  # actions:
+  #   - label: "Book Now"
+  #     url: "/booking"
+excerpt: 'Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop. `type="center"`'
 intro: 
   - excerpt: ''
 feature_row:
