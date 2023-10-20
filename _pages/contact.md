@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: 
+title: "Skistone I"
 permalink: /
 hidden: true
 header:

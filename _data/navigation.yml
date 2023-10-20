@@ -2,13 +2,13 @@
 main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Book Direct"
+  - title: "BOOK DIRECT"
     url: /booking/
-  - title: "Gallery"
+  - title: "GALLERY"
     url: /gallery/
-  - title: "Contact"
+  - title: "CONTACT"
     url: /contact/
-  - title: "Airbnb"
+  - title: "AIRBNB"
     url: "https://www.airbnb.com/h/skistone1"
   - title: "VRBO"
     url: "https://www.vrbo.com/3018736"
