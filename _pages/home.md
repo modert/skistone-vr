@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /ROOT
 hidden: true
 header:
   overlay_color: "#000"
