@@ -133,7 +133,7 @@ author:
 footer:
   links:    
     - label: "Email Us"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "https://twitter.com/skistonei"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
