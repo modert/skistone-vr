@@ -13,8 +13,9 @@ header:
     - label: "Book Direct"
       url: "/booking"
 excerpt: "Your mountain getaway for relaxation, skiing, hiking, biking and a whole lot more!"
-# intro: 
-#   - excerpt: ''
+intro: 
+  - excerpt: > 
+  Wake up with the sun rising from behind the fantastic mountain views in this east facing third floor Silver Mill condo, then enjoy your morning coffee on the covered balcony with the warm sun against the cool air. If it's too cold for you on the balcony, come back inside and enjoy that coffee by the gas fireplace.
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -49,13 +50,8 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/Skistone Vacation Rentals.jpg
+    alt: "Skistone Vacation Rentals Logo"
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} -->
