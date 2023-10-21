@@ -29,7 +29,10 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
   background-color: $form-background-color;
 }
 
-.wrapper--center,
-.wrapper--center>p{
+.wrapper--center{
   text-align: center;
+}
+
+.wrapper--center>p.page__lead{
+  display: inline-block;
 }
