@@ -34,14 +34,14 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/4.jpg
-    alt: "Bathroon"
+    alt: "Bathroom"
     title: "Bathroom"
     excerpt: "We gave the bathroom a little update in June of 2023"
 feature_row3:
   - image_path: /assets/images/6.jpg
     alt: "Rec Room"
     title: "Recreation Room"
-    excerpt: "Watch the game on the brand new 70" TV while you shoot some pool!"
+    excerpt: "Watch the game on the brand new 70`" TV while you shoot some pool!"
 feature_row4:
   - image_path: /assets/images/Skistone Vacation Rentals.jpg
     alt: "Skistone Vacation Rentals Logo"
