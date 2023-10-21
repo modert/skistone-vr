@@ -1,11 +1,11 @@
 ---
 layout: splash
-title: 
+title: ""
 permalink: /
 hidden: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.4"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/header.jpg
   show_overlay_exerpt: true
   overlay_centered: true
