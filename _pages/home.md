@@ -34,27 +34,21 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/4.jpg
+    alt: "Bathroon"
+    title: "Bathroom"
+    excerpt: 'We gave the bathroom a little update in June of 2023'
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/6.jpg
+    alt: "Rec Room"
+    title: "Recreation Room"
+    excerpt: 'Watch the game on the brand new 70" TV while you shoot some pool!'
 feature_row4:
   - image_path: /assets/images/Skistone Vacation Rentals.jpg
     alt: "Skistone Vacation Rentals Logo"
 ---
 
-<!-- {% include feature_row id="intro" type="center" %} -->
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
