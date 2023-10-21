@@ -41,7 +41,7 @@ feature_row3:
   - image_path: /assets/images/6.jpg
     alt: "Rec Room"
     title: "Recreation Room"
-    excerpt: "Watch the game on the brand new 70`" TV while you shoot some pool!"
+    excerpt: 'Watch the game on the brand new 70" TV while you shoot some pool!'
 feature_row4:
   - image_path: /assets/images/Skistone Vacation Rentals.jpg
     alt: "Skistone Vacation Rentals Logo"
