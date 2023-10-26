@@ -2,66 +2,36 @@
 layout: splash
 title: "Skistone I"
 permalink: /gallery
-hidden: true
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.4"
-  overlay_image: /assets/images/header.jpg
-  actions:
-    - label: "Book Direct"
-      url: "/booking"
+hidden: false
+# header:
+#   overlay_color: "#000"
+#   overlay_filter: "0.5"
+#   overlay_image: /assets/images/header.jpg
+#   actions:
+#     - label: "Book Direct"
+#       url: "/booking"
 excerpt: "Your mountain getaway for relaxation, skiing, hiking, biking and a whole lot more!"
 # intro: 
 #   - excerpt: ''
-feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+gallery:
+  - url: /assets/images/1.jpg
+    image_path: /assets/images/1.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    title: "Image 1 title caption"
+  - url: /assets/images/2.jpg
+    image_path: /assets/images/2.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    type: "center"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Image 2 title caption"
+  - url: /assets/images/3.jpg
+    image_path: /assets/images/3.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/4.jpg
+    image_path: /assets/images/4.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
 ---
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
+{% include gallery class="full" caption="This is a sample gallery with **Markdown support**." %}
