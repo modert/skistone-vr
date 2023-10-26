@@ -29,6 +29,8 @@ airbnb:
     type="application/javascript"
 ></script>
 
+{% include feature_row type="center" %}
+
 {% include feature_row id="airbnb" type="center" %}
 
 <div class="airbnb-embed-frame" data-id="724056733975744264" data-view="home" style="width: 450px; height: 300px; margin: auto;"><a href="https://www.airbnb.com/rooms/724056733975744264?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">View On Airbnb</a><a href="https://www.airbnb.com/rooms/724056733975744264?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Condo in Keystone · ★4.96 · 1 bedroom · 2 beds · 1 bath</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
