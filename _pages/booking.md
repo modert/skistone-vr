@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Skistone I"
-permalink: /
+title: "Booking"
+permalink: /booking
 hidden: true
 header:
   overlay_color: "#000"

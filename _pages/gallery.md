@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Skistone I"
-permalink: /
+permalink: /gallery
 hidden: true
 header:
   overlay_color: "#000"

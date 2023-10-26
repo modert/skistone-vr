@@ -1,15 +1,15 @@
 ---
 layout: splash
-title: "Skistone I"
-permalink: /
+title: "Contact"
+permalink: /contact
 hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/header.jpg
   actions:
-    - label: "Book Direct"
-      url: "/booking"
+    - label: "Contact-2"
+      url: "/contact-2"
 excerpt: "Your mountain getaway for relaxation, skiing, hiking, biking and a whole lot more!"
 # intro: 
 #   - excerpt: ''
