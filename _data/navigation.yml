@@ -3,11 +3,11 @@ main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "BOOK DIRECT"
-    url: /booking/
+    url: /booking
   - title: "GALLERY"
-    url: /gallery/
+    url: /gallery
   - title: "CONTACT"
-    url: /contact/
+    url: /contact
   - title: "AIRBNB"
     url: "https://www.airbnb.com/h/skistone1"
   - title: "VRBO"
