@@ -15,25 +15,23 @@ intro:
   - excerpt: ''
 intro_2: 
   - excerpt: ''
-
 ---
 
-<section class="bg-primary" id="booking">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">Check your dates and book now!</h2>
-                <p>Booking direct with us prevents the extra fees that Airbnb and Vrbo charge you!</p>
-                <hr class="light">
-                <div class="igms-direct-booking-widget" id="directBooking1696797720472"
-                    data-listing-id="a367b429-9284-4d32-994d-9aa346b7e0de" data-widget-color="#8C52FF"
-                    data-text-check-availability="Check Availability" data-text-book-now="Book Now">
-                </div>
+<!-- {% include feature_row id="intro_2" type="center" %} -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <h2 class="section-heading">Check your dates and book now!</h2>
+            <p>Booking direct with us prevents the extra fees that Airbnb and Vrbo charge you!</p>
+            <hr class="light">
+            <div class="igms-direct-booking-widget" id="directBooking1696797720472"
+                data-listing-id="a367b429-9284-4d32-994d-9aa346b7e0de" data-widget-color="#8C52FF"
+                data-text-check-availability="Check Availability" data-text-book-now="Book Now">
             </div>
         </div>
     </div>
-    </div>
-</section>
+</div>
 
 <!-- {% include feature_row id="intro_2" type="center" %} -->
 
