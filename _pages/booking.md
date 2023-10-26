@@ -14,7 +14,7 @@ airbnb:
   - excerpt: 'Read our reviews or book using Airbnb - Airbnb does charge additional fees for use of their services.'
 ---
 
-{% include feature_row id="intro_2" type="center" %}
+{% include feature_row id="intro" type="center" %}
 
 <div
     class="igms-direct-booking-widget"
