@@ -36,3 +36,17 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .wrapper--center>p.page__lead{
   display: inline-block;
 }
+
+header {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  background-image: url("../images/header.jpg");
+  text-align: center;
+  color: white;
+}
