@@ -46,7 +46,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url("../images/header.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/skistone-vr/assets/images/header.jpg);
   text-align: center;
   color: white;
 }
